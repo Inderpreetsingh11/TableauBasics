@@ -1,0 +1,3 @@
+Was facing an issue while pushing code to github from my local repo because there were n number of username stored in keychain(in case of mac). So I deleted all and then command line prompted to enter my username and password and then I was able to access push and pull commands perfectly. 
+
+I referred this blog for the same : https://medium.com/@shivrajp130/how-to-change-git-username-password-after-you-change-the-git-password-ef53a5082a57
