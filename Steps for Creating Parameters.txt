@@ -1,0 +1,6 @@
+Steps to create a parameter.
+
+1. Create a parameter
+2. Display the parameter
+3. Create the calculation 
+4. add the calculation
